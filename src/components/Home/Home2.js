@@ -10,40 +10,38 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LAISSER MOI ME <span className="purple"> PRÉSENTER </span>
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              Je suis un étudiant en informatique qui adore résoudre des problèmes.
               <br />
               <br />
-              I’m proficient in
+              Je maîtrise
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Java, C++, PHP, SQL, and JavaScript{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — Je peux travailler et en front-end et en back-end
               <br />
               <br />
-              My key areas of interest include developing
+              Ce que je préfère est
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Applications, jeux vidéos, Logique interne,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              et le networking entre applications.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+              Dès que possible, je préfère utiliser
+              <b className="purple"> Kotlin </b> à la place de <b className="purple"> Java </b>
+              pour un code plus
+	      <i>
+                <b className="purple"> Clair</b> et moins
+                <b className="purple"> Verbeux</b>.
               </i>
             </p>
           </Col>
