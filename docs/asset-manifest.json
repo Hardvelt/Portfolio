@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc517ef8.css",
+    "main.js": "/static/js/main.79608874.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/Cv.pdf": "/static/media/Cv.09ded4df6831e73eabe9.pdf",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/projet_reseau.pdf": "/static/media/projet_reseau.24c118fb5c2970e7c817.pdf",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/chateau_mente_et_cristaux.png": "/static/media/chateau_mente_et_cristaux.02a341bd950dc2cb733a.png",
+    "static/media/linux.svg": "/static/media/linux.cfff2cd259df572c092c2de161c9ee85.svg",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/kotlin.svg": "/static/media/kotlin.63fdb305d73ff34664a5fa66e120fc6b.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/C.svg": "/static/media/C.e7eeba4312a2a40a99de85e0869e2703.svg",
+    "static/media/vim.svg": "/static/media/vim.cb92b43f58f94a7130ddd06af565d78c.svg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/go.svg": "/static/media/go.92167445712559696ed2cbe525706710.svg",
+    "static/media/SQL.svg": "/static/media/SQL.52fc098126b8b29ddd950a944b5d0026.svg",
+    "static/media/Docker.svg": "/static/media/Docker.b02bde45de78f064309327b59c188428.svg",
+    "static/media/intellij-idea.svg": "/static/media/intellij-idea.a665ae5920b20b5c309de0aa306924d5.svg",
+    "static/media/vscode.svg": "/static/media/vscode.01c32f3da6e0380beb0ed980549fa10d.svg",
+    "static/media/Python.svg": "/static/media/Python.4c10e3e883c66039a07b3d1da3551107.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "static/media/Java.svg": "/static/media/Java.edcb9f2574179c38ce343ae59e91b5bc.svg",
+    "static/media/C++.svg": "/static/media/C++.a87de30de97ce5ed259ace5ef23c7e91.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.2d2e6d4fde8c0beaf89875c287164a7c.svg",
+    "static/media/Git.svg": "/static/media/Git.9da88573cca3c97a3a1523ae09d93654.svg",
+    "static/media/Haskell.svg": "/static/media/Haskell.e4b7b5b34e24fee7cd7a2a1f75b9550b.svg",
+    "main.cc517ef8.css.map": "/static/css/main.cc517ef8.css.map",
+    "main.79608874.js.map": "/static/js/main.79608874.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc517ef8.css",
+    "static/js/main.79608874.js"
+  ]
+}
