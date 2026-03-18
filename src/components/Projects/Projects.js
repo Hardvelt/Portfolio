@@ -2,14 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chateau_mente_et_cristaux from "../../Assets/Projects/chateau_mente_et_cristaux.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
-import rapport_chateau_mente_et_cristaux from "../../Assets/projet_reseau.pdf";
-
+import rapport_chateau_mente_et_cristaux from "../../Projetcs/Assets/projet_reseau.pdf";
+import rapport_labyrainte from "../../Assets/Projetcs/Game Design Document Laby-rainté.pdf";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -39,10 +35,19 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Code game Jam"
+              description="Jeu d'horreur 3d fait en 30 heures pendant la code game jam. Le thème était la fête des clics"
+              rapport="https://www.youtube.com/watch?v=sICzylhVaq8"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Laby-rainté"
+              description="Jeu 2d type battle royal dans un labyrainte"
+              rapport={rapport_labyrainte}            
             />
           </Col>
 
