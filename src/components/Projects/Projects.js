@@ -4,8 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chateau_mente_et_cristaux from "../../Assets/Projects/chateau_mente_et_cristaux.png";
-import rapport_chateau_mente_et_cristaux from "../../Projetcs/Assets/projet_reseau.pdf";
-import rapport_labyrainte from "../../Assets/Projetcs/Game Design Document Laby-rainté.pdf";
+import rapport_chateau_mente_et_cristaux from "../../Assets/Projects/projet_reseau.pdf";
+import rapport_labyrainte from "../../Assets/Projects/Game Design Document Laby-rainté.pdf";
 function Projects() {
   return (
     <Container fluid className="project-section">
